@@ -21,12 +21,13 @@ Contents
  
  
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> About me
+## About me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
 <picture> 
 
 My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3 years of experience. In addition, I have served as a part-time field technician for tech advertising companies for more than 8 years. I've spent 13 years working as a sign language interpreter, where I provided invaluable support to the Deaf community. Throughout my career, I have honed my skills in video editing, mastering Adobe Premiere, After Effects, and Davinci Resolve. Venturing into the realm of digital marketing, I've established an agency that managed social media for up to 4 companies. 💼
 <br>
+
 ## Academic Background <img src = "https://media.giphy.com/media/InU43eRXuLczSZeTbP/giphy.gif" width = 35px>
 
 - **Primary Education** (1996 - 2004)
@@ -42,7 +43,7 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <br>
 
 <p align="center">
@@ -89,7 +90,7 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
 
 -----
 
-## 💡 Projects✨
+## 💡 Projects ✨
 
 <div align="center">
 
@@ -102,7 +103,7 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
 </div>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <br>
 
 <br>
