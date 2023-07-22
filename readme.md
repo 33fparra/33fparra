@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="chica1.jpg">
+<img src="chica1.jpg"></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&pause=1000&color=F7F7F7&center=verdadero&vCenter=verdadero&repeat=&width=435&lines=Welcome+to+my+profile%2C;Full-Stack+Developer+with+a+passion+;for+technology%2C;Computer+Science+Student%2C+;Active+Learner%2FResearcher%2C+;always+in+pursuit+of+knowledge%2C;I+love+discovering+new+things..%E2%99%A5" alt="Typing SVG" /></a>
 </p>
 
