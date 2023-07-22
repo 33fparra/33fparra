@@ -23,8 +23,6 @@ Contents
 
 ## About me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
-<picture> 
-
 My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3 years of experience. In addition, I have served as a part-time field technician for tech advertising companies for more than 8 years. I've spent 13 years working as a sign language interpreter, where I provided invaluable support to the Deaf community. Throughout my career, I have honed my skills in video editing, mastering Adobe Premiere, After Effects, and Davinci Resolve. Venturing into the realm of digital marketing, I've established an agency that managed social media for up to 4 companies. 💼
 <br>
 
@@ -135,7 +133,7 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
 <br>
 
 <li>
-<a href="mailto:@gmail.com" target="_blank">
+<a href="mailto:33fparra@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/GMAIL-33FPARRA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
