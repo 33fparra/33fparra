@@ -12,12 +12,12 @@
 Contents
 ========
 
- * [About me](#about-me)
- * [Academic Background](#academic-background)
- * [Skills](#skills)
- * [Projects](#projects)
- * [Github Stats](#github-stats)
- * [Let's Connect..!](#let's-connect..!)
+ * [About me](#about-me-)
+ * [Academic Background](#academic-background-)
+ * [Skills](#skills-)
+ * [Projects](#projects-)
+ * [Github Stats](#github-stats-)
+ * [Let's Connect..!](#let's-connect..!-)
  
  
 
@@ -88,7 +88,7 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
 
 -----
 
-## 💡 Projects ✨
+## Projects 💡 
 
 <div align="center">
 
@@ -117,7 +117,7 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
 
 -----
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
