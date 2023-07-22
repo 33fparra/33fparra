@@ -17,7 +17,7 @@ Contents
  * [Skills](#skills-)
  * [Projects](#projects-)
  * [Github Stats](#github-stats-)
- * [Let's Connect..!](#let's-connect..!-)
+ * [Let's Connect](#lets-connect-)
  
  
 
@@ -117,7 +117,7 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
 
 -----
 
-## Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## Let's Connect <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
