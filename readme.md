@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi , I'm Felipe Andrés Parra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <p align="center">
 <img src="chica1.jpg"></br>
+</p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&pause=1000&color=F7F7F7&center=verdadero&vCenter=verdadero&repeat=&width=435&lines=Welcome+to+my+profile%2C;Full-Stack+Developer+with+a+passion+;for+technology%2C;Computer+Science+Student%2C+;Active+Learner%2FResearcher%2C+;always+in+pursuit+of+knowledge%2C;I+love+discovering+new+things..%E2%99%A5" alt="Typing SVG" /></a>
 </p>
 
@@ -13,7 +14,6 @@ Contents
 ========
 
  * [About me](#about-me-)
- * [Academic Background](#academic-background-)
  * [Skills](#skills-)
  * [Projects](#projects-)
  * [Github Stats](#github-stats-)
@@ -26,20 +26,6 @@ Contents
 My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3 years of experience. In addition, I have served as a part-time field technician for tech advertising companies for more than 8 years. I've spent 13 years working as a sign language interpreter, where I provided invaluable support to the Deaf community. Throughout my career, I have honed my skills in video editing, mastering Adobe Premiere, After Effects, and Davinci Resolve. Venturing into the realm of digital marketing, I've established an agency that managed social media for up to 4 companies. 💼
 <br>
 
-## Academic Background <img src = "https://media.giphy.com/media/InU43eRXuLczSZeTbP/giphy.gif" width = 35px>
-
-- **Primary Education** (1996 - 2004)
-    - Colegio Panal, Canal Chacao, Quilpué (1996 - 1997)
-    - Colegio Fernando Duran Villarreal, Paradero 27, Quilpué (1998 - 1999)
-    - Colegio Gastón Ossa Saint Marie, Viña del Mar (2000 - 2004)
-    
-- **Secondary Education** (2005 - 2008)
-    - Colegio Técnico Profesional San Nicolás, Chacao, Quilpué
-    
-- **Iplacex** (2022)
-    - Technician in Multiplatform Application Development
-
-<br>
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <br>
@@ -81,7 +67,8 @@ My name is Felipe Andrés Parra Álvarez, a passionate web developer with over 3
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/MYSQL-BLUE?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&labelColor=%234479A1&color=%234479A1)
-    ![MongoDB](https://img.shields.io/badge/MONGODB-BLUE?style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF&labelColor=%2347A248&color=%2347A248) 
+    ![MongoDB](https://img.shields.io/badge/MONGODB-BLUE?style=for-the-badge&logo=mongodb&logoColor=%23FFFFFF&labelColor=%2347A248&color=%2347A248)
+    ![WodPress](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFF&labelColor=21759B&color=21759B)
 
 </p>
 <br>
